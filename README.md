@@ -2,7 +2,8 @@
 
 "Develop a dependable and effective machine learning model capable of classifying comments and tweets into toxic and non-toxic categories, using natural language processing (NLP) techniques" is the project's problem statement. This entails overcoming a number of obstacles, including managing the complex and varied nature of language, resolving imbalances in datasets, and guaranteeing the model's scalability and suitability for use across a range of online platforms.
 
-#Technologies Used:
+# Technologies Used:
+
 To achieve the objectives of this project, a combination of natural language processing (NLP) techniques and machine learning algorithms are employed. The key technologies and tools used include:
  
 ![image](https://github.com/user-attachments/assets/0a2ec67f-f761-47d7-ba83-13bf96822cb4)
